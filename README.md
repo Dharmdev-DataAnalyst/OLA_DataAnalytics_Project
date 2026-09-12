@@ -56,8 +56,7 @@ Provides a high-level view of:
 -   Ride Volume Over Time
 
 ### 🖼️ Dashboard Demo
-[View Overall Dashboard Demo](Dashboard_screenshots/OverallPage.png)
-
+[![Overall Dashboard](Dashboard_screenshots/OverallPage.png)](Dashboard_screenshots/OverallPage.png)
 ------------------------------------------------------------------------
 
 ## 2. Vehicle Type Analysis

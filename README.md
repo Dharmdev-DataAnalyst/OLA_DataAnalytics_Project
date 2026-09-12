@@ -171,15 +171,23 @@ metrics, including:
 
   KPI                   Description
   --------------------- -----------------------------------------
-  Total Bookings        Total number of ride bookings
-  Successful Bookings   Successfully completed rides
-  Cancelled Bookings    Rides cancelled by customers or drivers
-  Cancellation Rate     Percentage of cancelled bookings
-  Booking Value         Total value generated from bookings
-  Average Distance      Average distance travelled per ride
-  Total Distance        Overall ride distance
-  Customer Ratings      Customer feedback across vehicle types
-  Driver Ratings        Driver feedback across vehicle types
+  Total Bookings --       Total number of ride bookings
+  
+  Successful Bookings --   Successfully completed rides
+  
+  Cancelled Bookings --   Rides cancelled by customers or drivers
+  
+  Cancellation Rate --    Percentage of cancelled bookings
+  
+  Booking Value --        Total value generated from bookings
+  
+  Average Distance --    Average distance travelled per ride
+  
+  Total Distance --       Overall ride distance
+  
+  Customer Ratings --     Customer feedback across vehicle types
+  
+  Driver Ratings --       Driver feedback across vehicle types
 
 ------------------------------------------------------------------------
 
